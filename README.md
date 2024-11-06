@@ -24,7 +24,7 @@ In my repositories, you'll find a variety of smart contracts and DApps I've been
 I am committed to contributing to the blockchain space by developing applications that push the boundaries of what's possible with decentralized technologies. My goal is to become a proficient full stack blockchain developer who can bring innovative ideas to life, whether it's through personal projects or by collaborating with others in the community.
 
 ## Let's Connect
+I'm always eager to learn, collaborate, and contribute to exciting blockchain projects. Feel free to explore my repositories, reach out to me, or connect with me on [Twitter(X)](https://x.com/dev10TLC) or [LinkedIn](https://www.linkedin.com/in/ivan-otono-87a921261).
 
-I'm always eager to learn, collaborate, and contribute to exciting blockchain projects. Feel free to explore my repositories, reach out to me, or connect with me on [Twitter(X)]([(https://x.com/dev10TLC)]([https://www.linkedin.com/in/ivan-otono-87a921261)](https://x.com/dev10TLC) 
 
 Thanks for stopping by!
