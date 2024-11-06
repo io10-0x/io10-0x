@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Ivan Otono, an aspiring Full Stack Blockchain Developer with a passion for decentralized technologies and smart contract development. My journey into the blockchain world began with a fascination for how decentralized systems can change the world and I want to be a part of it.
+Hello! I'm an aspiring Full Stack Blockchain Developer with a passion for decentralized technologies and smart contract development. My journey into the blockchain world began with a fascination for how decentralized systems can change the world and I want to be a part of it.
 
 ## My Focus
 
@@ -25,6 +25,6 @@ I am committed to contributing to the blockchain space by developing application
 
 ## Let's Connect
 
-I'm always eager to learn, collaborate, and contribute to exciting blockchain projects. Feel free to explore my repositories, reach out to me, or connect with me on [LinkedIn]([https://www.linkedin.com/in/ivanotono](https://www.linkedin.com/in/ivan-otono-87a921261)) 
+I'm always eager to learn, collaborate, and contribute to exciting blockchain projects. Feel free to explore my repositories, reach out to me, or connect with me on [Twitter(X)]([(https://x.com/dev10TLC)]([https://www.linkedin.com/in/ivan-otono-87a921261)](https://x.com/dev10TLC) 
 
 Thanks for stopping by!
