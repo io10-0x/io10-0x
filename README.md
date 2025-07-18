@@ -33,7 +33,7 @@ In my repositories, you'll find a variety of smart contracts and DApps I've been
 I am committed to contributing to the blockchain space by developing applications that push the boundaries of what's possible with decentralized technologies. My main goal is to be able to understand most smart contract languages on a deep level starting with Solidity and progressing on to Vyper and Rust. I believe that skills are worth more than money as skills are non transferable so which money is a good motivator and essential, I want to ensure that I am growing with any work I am doing. I enjoy challenges as I feel I can push myself and learn more as I go along. My goal is to become a proficient security researcher who consistently wins public contests and also have a very strong client base of business partners who value and trust my skills to deliver top level audits on their protocols. I  full stack blockchain developer who can bring innovative ideas to life, whether it's through personal projects or by collaborating with others in the community.
 
 ## Let's Connect
-I'm always eager to learn, collaborate, and contribute to exciting blockchain projects. Feel free to explore my repositories, reach out to me, or connect with me on [Twitter(X)](https://x.com/dev10TLC) or [LinkedIn](https://www.linkedin.com/in/ivan-otono-87a921261).
+I'm always eager to learn, collaborate, and contribute to exciting blockchain projects. Feel free to explore my repositories, reach out to me, or connect with me on [Twitter(X)](https://x.com/dev10TLC). 
 
 
 Thanks for stopping by!
