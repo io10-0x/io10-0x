@@ -7,7 +7,7 @@ Hello! I'm a Web3 Security Researcher and Blockchain Developer with a passion fo
 
 - **Security Best Practices**: Implementing industry-standard security measures such as reentrancy protection, access control, and gas optimization.
 
-- **Formal Verification & Static Analysis**: Utilizing tools like Slither, Mythril, and Scribble to analyze smart contracts for potential weaknesses.
+- **Formal Verification & Static Analysis**: Utilizing tools like Slither to analyze smart contracts for potential weaknesses.
 
 - **Manual Reviews**: Conducting in-depth reviews of Solidity codebases to detect logic errors, privilege escalations, and other vulnerabilities.
 
@@ -20,7 +20,6 @@ Hello! I'm a Web3 Security Researcher and Blockchain Developer with a passion fo
 ## Technologies I Work With
 
 - **Blockchain**: Ethereum, Solidity, Hardhat, Truffle, Brownie, Foundry, Huff
-- **Frontend**: React, JavaScript, HTML, CSS
 - **Backend**: Node.js, Python, Express.js
 - **Tools & Libraries**: Web3.js, Ethers.js, IPFS, Ganache, Metamask
 
